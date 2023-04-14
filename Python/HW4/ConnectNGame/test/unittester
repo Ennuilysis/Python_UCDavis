@@ -1,0 +1,129 @@
+
+import unittest
+from unittest.mock import patch
+from ConnectNGame.src.board import Board
+from ConnectNGame.src.game import Game
+from ConnectNGame.src.player import Player
+from ConnectNGame.src.human_player import HumanPlayer
+from ConnectNGame.src.random_ai import RandomAi
+from ConnectNGame.src.simple_ai import SimpleAi
+from ConnectNGame.src.config import Config
+
+player_types=[RandomAi,SimpleAi,HumanPlayer]
+
+class fake_config(Config):
+    def __init__(self, num_rows:int, num_cols:int, num_pieces_to_win:int, blank_character:str):
+        self.num_rows = num_rows
+        self.num_columns = num_cols
+        self.num_pieces_to_win = num_pieces_to_win
+        self.blank_character = blank_character
+
+class TestProject(unittest.TestCase):
+    game_config:object = fake_config(3, 3, 3, "*")
+    connect_n_AI: object = Game(game_config)
+    Board: object = Board.build_board_from_config(game_config)
+    def test_create_player(self):
+        """Insures that each player type has a working create function"""
+        num=1
+        player_list=[]
+        for x in player_types:
+            player_list.append(x.create_player(num,player_list,Board,test=True))
+            num+=1
+        for t in player_list:
+            self.assertIs(type(t),player_list()
+
+
+    def test_check_name_empty(self):
+        user_input = ['', "Ian", "^"]
+        capture = PrintCapturer()
+        with patch("ConnectNGame.src.game.input", side_effect=user_input):
+            with patch("ConnectNGame.src.game.print", side_effect=capture):
+                connect_n_AI.create_player()
+                self.assertEqual("Your name cannot be the empty string or whitespace\n", capture.as_string())
+
+    def test_name_already_used(self):
+        user_input = ["Ian", "^", "Ian", "Bob", "$", "Bob", "@"]
+        capture = PrintCapturer()
+        with patch("ConnectNGame.src.game.input", side_effect=user_input):
+            with patch("ConnectNGame.src.game.print", side_effect=capture):
+                connect_n_AI.create_player()
+                connect_n_AI.create_player()
+                self.assertEqual("You cannot use Ian for your name as someone else is already using it.\n",
+                                 capture.as_string())
+
+    def test_piece_already_used(self):
+        user_input = ["Ian", "^", "Bob", "^", "Bob", "$"]
+        capture = PrintCapturer()
+        with patch("ConnectNGame.src.game.input", side_effect=user_input):
+            with patch("ConnectNGame.src.game.print", side_effect=capture):
+                connect_n_AI.create_player()
+                connect_n_AI.create_player()
+                self.assertEqual("You cannot use ^ for your piece as Ian is already using it.\n",
+                                 capture.as_string())
+
+    def test_piece_is_single_character(self):
+        user_input = ["Ian", "&*^", "Ian", "$"]
+        capture = PrintCapturer()
+        with patch("ConnectNGame.src.game.input", side_effect=user_input):
+            with patch("ConnectNGame.src.game.print", side_effect=capture):
+                connect_n_AI.create_player()
+                self.assertEqual("&*^ is not a single character. Your piece can only be a single character.\n",
+                                 capture.as_string())
+
+    def test_piece_is_not_blank_character(self):
+        user_input = ["Ian", "*", "Ian", "$"]
+        capture = PrintCapturer()
+        with patch("ConnectNGame.src.game.input", side_effect=user_input):
+            with patch("ConnectNGame.src.game.print", side_effect=capture):
+                connect_n_AI.create_player()
+                self.assertEqual("Your piece cannot be the same as the blank character.\n",
+                                 capture.as_string())
+
+    def test_create_player_list(self):
+        answer = 1
+        connect_n_AI.create_player()
+        self.assertEqual(answer, len(connect_n_AI.Player_instants))
+
+    def test_create_player_1(self):
+        answer = connect_n_AI.players
+        connect_n_AI.create_player()
+        yesss = [('Ian', '#', 1)]
+        self.assertEqual(answer, yesss)
+
+    def test_create_player_2(self):
+        answer = connect_n_AI.players
+        connect_n_AI.create_player()
+        connect_n_AI.create_player()
+        yesss = [('Ian', '@', 1), ('Bob', '$', 2)]
+        self.assertEqual(answer, yesss)
+
+    def test_column_is_int(self):
+        user_input = ["Ian", "@", "Bob", "!", "F", "2", "2", "1"]
+        capture = PrintCapturer()
+        with patch("ConnectNGame.src.game.input", side_effect=user_input):
+            with patch("ConnectNGame.src.game.print", side_effect=capture):
+                connect_n_AI.create_player()
+                connect_n_AI.create_player()
+                connect_n_AI.play()
+                self.assertEqual("Ian, column needs to be an integer, F is not an integer.\n", capture.as_string())
+            ...
+
+    def test_drop_piece(self):
+        test_contents = [['*', 'O', 'X', '*'],  # bottom?
+                         ['*', 'X', 'O', '*'],
+                         ['*', 'X', 'O', '*'],
+                         ['X', '*', '*', '*']]  # top ?
+        board = Board(4, 4, "*", 4)
+        board.contents = test_contents
+
+        answer_contents = [['*', 'O', 'X', '*'],  # bottom?
+                           ['*', 'X', 'O', '*'],
+                           ['X', 'X', 'O', '*'],
+                           ['X', '*', '*', '*']]  # top ?
+        board.drop_piece_into_column(0, 'X')
+
+        self.assertEqual(board.contents, answer_contents)
+
+
+if __name__ == '__main__':
+    unittest.main()
