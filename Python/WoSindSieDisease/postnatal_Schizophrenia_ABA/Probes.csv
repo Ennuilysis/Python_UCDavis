@@ -1,0 +1,221 @@
+id,name,gene-id,gene-symbol,gene-name,entrez-id,chromosome,start-position,end-position
+1059426,A_23_P115021,85,ACTN2,"actinin, alpha 2",88,1,n/a,n/a
+1059427,CUST_14660_PI416261804,85,ACTN2,"actinin, alpha 2",88,1,n/a,n/a
+1027924,A_23_P2960,204,AKT1,v-akt murine thymoma viral oncogene homolog 1,207,14,n/a,n/a
+1027925,CUST_16917_PI416261804,204,AKT1,v-akt murine thymoma viral oncogene homolog 1,207,14,n/a,n/a
+1027926,CUST_16922_PI416261804,204,AKT1,v-akt murine thymoma viral oncogene homolog 1,207,14,n/a,n/a
+1042574,A_23_P213326,34171,ANKHD1,ankyrin repeat and KH domain containing 1,54882,5,n/a,n/a
+1028201,A_23_P92642,34171,ANKHD1,ankyrin repeat and KH domain containing 1,54882,5,n/a,n/a
+1042576,A_24_P323265,34171,ANKHD1,ankyrin repeat and KH domain containing 1,54882,5,n/a,n/a
+1042575,A_24_P50875,34171,ANKHD1,ankyrin repeat and KH domain containing 1,54882,5,n/a,n/a
+1028203,CUST_78_PI416408490,34171,ANKHD1,ankyrin repeat and KH domain containing 1,54882,5,n/a,n/a
+1028202,CUST_8573_PI416261804,34171,ANKHD1,ankyrin repeat and KH domain containing 1,54882,5,n/a,n/a
+1011621,A_24_P87931,8476,APOL1,"apolipoprotein L, 1",8542,22,n/a,n/a
+1045401,A_23_P211488,23533,APOL2,"apolipoprotein L, 2",23780,22,n/a,n/a
+1045400,A_24_P48898,23533,APOL2,"apolipoprotein L, 2",23780,22,n/a,n/a
+1038419,A_23_P380857,56603,APOL4,"apolipoprotein L, 4",80832,22,n/a,n/a
+1067379,A_24_P374163,56603,APOL4,"apolipoprotein L, 4",80832,22,n/a,n/a
+1038421,CUST_6219_PI416261804,56603,APOL4,"apolipoprotein L, 4",80832,22,n/a,n/a
+1038420,CUST_83_PI416408490,56603,APOL4,"apolipoprotein L, 4",80832,22,n/a,n/a
+1030978,A_23_P120933,465,ATF4,activating transcription factor 4 (tax-responsive enhancer element B67),468,22,n/a,n/a
+1030980,A_23_P120941,465,ATF4,activating transcription factor 4 (tax-responsive enhancer element B67),468,22,n/a,n/a
+1030981,A_24_P307065,465,ATF4,activating transcription factor 4 (tax-responsive enhancer element B67),468,22,n/a,n/a
+1030979,A_32_P187851,465,ATF4,activating transcription factor 4 (tax-responsive enhancer element B67),468,22,n/a,n/a
+1046299,A_23_P119337,22565,ATF5,activating transcription factor 5,22809,19,n/a,n/a
+1046301,CUST_15117_PI416261804,22565,ATF5,activating transcription factor 5,22809,19,n/a,n/a
+1046300,CUST_94_PI416408490,22565,ATF5,activating transcription factor 5,22809,19,n/a,n/a
+1041641,A_23_P112950,35018,ATF7IP,activating transcription factor 7 interacting protein,55729,12,n/a,n/a
+1041643,A_24_P923757,35018,ATF7IP,activating transcription factor 7 interacting protein,55729,12,n/a,n/a
+1041642,CUST_95_PI416408490,35018,ATF7IP,activating transcription factor 7 interacting protein,55729,12,n/a,n/a
+1065838,A_23_P427696,94453,CCDC141,coiled-coil domain containing 141,285025,2,n/a,n/a
+1032394,CUST_265_PI416408490,94453,CCDC141,coiled-coil domain containing 141,285025,2,n/a,n/a
+1032395,CUST_368_PI416573500,94453,CCDC141,coiled-coil domain containing 141,285025,2,n/a,n/a
+1032393,CUST_377_PI416379584,94453,CCDC141,coiled-coil domain containing 141,285025,2,n/a,n/a
+1022067,A_23_P163390,1131,CHRNA7,"cholinergic receptor, nicotinic, alpha 7 (neuronal)",1139,15,n/a,n/a
+1022068,CUST_15465_PI416261804,1131,CHRNA7,"cholinergic receptor, nicotinic, alpha 7 (neuronal)",1139,15,n/a,n/a
+1022069,CUST_681_PI416408490,1131,CHRNA7,"cholinergic receptor, nicotinic, alpha 7 (neuronal)",1139,15,n/a,n/a
+1022066,CUST_9_PI416558205,1131,CHRNA7,"cholinergic receptor, nicotinic, alpha 7 (neuronal)",1139,15,n/a,n/a
+1046577,A_23_P420551,10954,CIT,"citron (rho-interacting, serine/threonine kinase 21)",11113,12,n/a,n/a
+1046579,CUST_174_PI416408490,10954,CIT,"citron (rho-interacting, serine/threonine kinase 21)",11113,12,n/a,n/a
+1028978,A_23_P251680,1303,COMT,catechol-O-methyltransferase,1312,22,n/a,n/a
+1028970,CUST_1019_PI417557136,1303,COMT,catechol-O-methyltransferase,1312,22,n/a,n/a
+1028969,CUST_1020_PI417557136,1303,COMT,catechol-O-methyltransferase,1312,22,n/a,n/a
+1028989,CUST_1031_PI417557136,1303,COMT,catechol-O-methyltransferase,1312,22,n/a,n/a
+1028980,CUST_15842_PI416261804,1303,COMT,catechol-O-methyltransferase,1312,22,n/a,n/a
+1014375,CUST_15849_PI416261804,1303,COMT,catechol-O-methyltransferase,1312,22,n/a,n/a
+1057739,A_23_P139635,1598,DAO,D-amino-acid oxidase,1610,12,n/a,n/a
+1057740,CUST_15677_PI416261804,1598,DAO,D-amino-acid oxidase,1610,12,n/a,n/a
+1018360,A_23_P351203,92448,DAOA,D-amino acid oxidase activator,267012,13,n/a,n/a
+1010584,A_24_P155617,92448,DAOA,D-amino acid oxidase activator,267012,13,n/a,n/a
+1024755,A_23_P62967,26930,DISC1,disrupted in schizophrenia 1,27185,1,n/a,n/a
+1024837,A_24_P83787,26930,DISC1,disrupted in schizophrenia 1,27185,1,n/a,n/a
+1070014,A_24_P928061,26930,DISC1,disrupted in schizophrenia 1,27185,1,n/a,n/a
+1024839,CUST_1334_PI416573500,26930,DISC1,disrupted in schizophrenia 1,27185,1,n/a,n/a
+1024867,CUST_1376_PI416379584,26930,DISC1,disrupted in schizophrenia 1,27185,1,n/a,n/a
+1024754,CUST_13_PI416558205,26930,DISC1,disrupted in schizophrenia 1,27185,1,n/a,n/a
+1024838,CUST_15700_PI416261804,26930,DISC1,disrupted in schizophrenia 1,27185,1,n/a,n/a
+1024840,CUST_683_PI416408490,26930,DISC1,disrupted in schizophrenia 1,27185,1,n/a,n/a
+1022740,A_23_P388061,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022768,CUST_1354_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022767,CUST_1355_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022757,CUST_1365_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022752,CUST_1369_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022751,CUST_1370_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022747,CUST_1374_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022746,CUST_1375_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022745,CUST_1376_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022744,CUST_1377_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022743,CUST_1378_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022742,CUST_1379_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022741,CUST_1380_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022739,CUST_1381_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022738,CUST_1382_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022737,CUST_1383_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022736,CUST_1384_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022735,CUST_1385_PI417557136,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022773,CUST_16407_PI416261804,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1022756,CUST_239_PI416408490,1800,DRD1,dopamine receptor D1,1812,5,n/a,n/a
+1025406,A_23_P57733,1802,DRD3,dopamine receptor D3,1814,3,n/a,n/a
+1025415,CUST_1177_PI417557136,1802,DRD3,dopamine receptor D3,1814,3,n/a,n/a
+1025414,CUST_1179_PI417557136,1802,DRD3,dopamine receptor D3,1814,3,n/a,n/a
+1025413,CUST_1180_PI417557136,1802,DRD3,dopamine receptor D3,1814,3,n/a,n/a
+1025401,CUST_1517_PI417557136,1802,DRD3,dopamine receptor D3,1814,3,n/a,n/a
+1025412,CUST_16177_PI416261804,1802,DRD3,dopamine receptor D3,1814,3,n/a,n/a
+1025405,CUST_1724_PI417557136,1802,DRD3,dopamine receptor D3,1814,3,n/a,n/a
+1027965,A_23_P42435,58273,DTNBP1,dystrobrevin binding protein 1,84062,6,n/a,n/a
+1027995,A_24_P145316,58273,DTNBP1,dystrobrevin binding protein 1,84062,6,n/a,n/a
+1027967,CUST_15747_PI416261804,58273,DTNBP1,dystrobrevin binding protein 1,84062,6,n/a,n/a
+1027966,CUST_243_PI416408490,58273,DTNBP1,dystrobrevin binding protein 1,84062,6,n/a,n/a
+1024216,A_23_P349416,2050,ERBB3,v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian),2065,12,n/a,n/a
+1024180,CUST_1348_PI416573500,2050,ERBB3,v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian),2065,12,n/a,n/a
+1024179,CUST_1390_PI416379584,2050,ERBB3,v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian),2065,12,n/a,n/a
+1024217,CUST_15938_PI416261804,2050,ERBB3,v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian),2065,12,n/a,n/a
+1021362,A_23_P423853,2051,ERBB4,v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian),2066,2,n/a,n/a
+1021361,A_32_P183765,2051,ERBB4,v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian),2066,2,n/a,n/a
+1021363,CUST_251_PI416408490,2051,ERBB4,v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian),2066,2,n/a,n/a
+1048326,A_23_P202881,9494,FEZ1,fasciculation and elongation protein zeta 1 (zygin I),9638,11,n/a,n/a
+1048327,A_24_P201552,9494,FEZ1,fasciculation and elongation protein zeta 1 (zygin I),9638,11,n/a,n/a
+1048328,CUST_15576_PI416261804,9494,FEZ1,fasciculation and elongation protein zeta 1 (zygin I),9638,11,n/a,n/a
+1028603,A_24_P355967,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028627,CUST_15774_PI416261804,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028626,CUST_1596_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028625,CUST_1597_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028619,CUST_1602_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028618,CUST_1603_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028617,CUST_1604_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028615,CUST_1606_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028614,CUST_1607_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028613,CUST_1608_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028612,CUST_1609_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028611,CUST_1610_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028610,CUST_1611_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028609,CUST_1612_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028608,CUST_1613_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028607,CUST_1614_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028606,CUST_1615_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028605,CUST_1616_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028604,CUST_1617_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028602,CUST_1618_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028601,CUST_1619_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028620,CUST_341_PI416408490,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028634,CUST_512_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028633,CUST_513_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1028631,CUST_515_PI417557136,3336,HTR2A,"5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled",3356,13,n/a,n/a
+1051633,A_23_P252962,6417,ITSN1,intersectin 1 (SH3 domain protein),6453,21,n/a,n/a
+1060072,A_23_P91504,6417,ITSN1,intersectin 1 (SH3 domain protein),6453,21,n/a,n/a
+1051634,A_24_P111061,6417,ITSN1,intersectin 1 (SH3 domain protein),6453,21,n/a,n/a
+1051635,CUST_16322_PI416261804,6417,ITSN1,intersectin 1 (SH3 domain protein),6453,21,n/a,n/a
+1025810,CUST_357_PI416408490,6417,ITSN1,intersectin 1 (SH3 domain protein),6453,21,n/a,n/a
+1054299,A_23_P163455,4105,MAP1A,microtubule-associated protein 1A,4130,15,n/a,n/a
+1054300,CUST_13478_PI416261804,4105,MAP1A,microtubule-associated protein 1A,4130,15,n/a,n/a
+1013462,A_23_P206901,34109,NDE1,nudE nuclear distribution E homolog 1 (A. nidulans),54820,16,n/a,n/a
+1020241,A_24_P210675,34109,NDE1,nudE nuclear distribution E homolog 1 (A. nidulans),54820,16,n/a,n/a
+1026135,A_23_P26878,57267,NDEL1,nudE nuclear distribution E homolog (A. nidulans)-like 1,81565,17,n/a,n/a
+1026106,CUST_13941_PI416261804,57267,NDEL1,nudE nuclear distribution E homolog (A. nidulans)-like 1,81565,17,n/a,n/a
+1026136,CUST_13943_PI416261804,57267,NDEL1,nudE nuclear distribution E homolog (A. nidulans)-like 1,81565,17,n/a,n/a
+1026134,CUST_21_PI416558205,57267,NDEL1,nudE nuclear distribution E homolog (A. nidulans)-like 1,81565,17,n/a,n/a
+1026137,CUST_680_PI416408490,57267,NDEL1,nudE nuclear distribution E homolog (A. nidulans)-like 1,81565,17,n/a,n/a
+1025388,A_23_P21570,40700,NPAS3,neuronal PAS domain protein 3,64067,14,n/a,n/a
+1025390,A_23_P2942,40700,NPAS3,neuronal PAS domain protein 3,64067,14,n/a,n/a
+1025389,CUST_473_PI416408490,40700,NPAS3,neuronal PAS domain protein 3,64067,14,n/a,n/a
+1020051,A_23_P136493,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1020049,A_23_P315815,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1012216,A_23_P360777,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1030949,A_23_P407497,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1020170,CUST_1436_PI416379584,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1014583,CUST_16501_PI416261804,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1030950,CUST_16945_PI416261804,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1014582,CUST_16968_PI416261804,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1014581,CUST_16981_PI416261804,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1014580,CUST_16983_PI416261804,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1019393,CUST_16992_PI416261804,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1014579,CUST_17026_PI416261804,3066,NRG1,neuregulin 1,3084,8,n/a,n/a
+1053380,A_23_P118888,5016,PAFAH1B1,"platelet-activating factor acetylhydrolase 1b, regulatory subunit 1 (45kDa)",5048,17,n/a,n/a
+1053381,A_24_P113086,5016,PAFAH1B1,"platelet-activating factor acetylhydrolase 1b, regulatory subunit 1 (45kDa)",5048,17,n/a,n/a
+1053379,A_24_P356406,5016,PAFAH1B1,"platelet-activating factor acetylhydrolase 1b, regulatory subunit 1 (45kDa)",5048,17,n/a,n/a
+1022619,A_23_P57347,5084,PCNT,pericentrin,5116,21,n/a,n/a
+1022621,A_24_P8350,5084,PCNT,pericentrin,5116,21,n/a,n/a
+1022620,CUST_504_PI416408490,5084,PCNT,pericentrin,5116,21,n/a,n/a
+1023019,A_23_P74278,5110,PDE4B,"phosphodiesterase 4B, cAMP-specific",5142,1,n/a,n/a
+1023020,A_24_P325333,5110,PDE4B,"phosphodiesterase 4B, cAMP-specific",5142,1,n/a,n/a
+1023047,A_24_P921129,5110,PDE4B,"phosphodiesterase 4B, cAMP-specific",5142,1,n/a,n/a
+1023021,CUST_506_PI416408490,5110,PDE4B,"phosphodiesterase 4B, cAMP-specific",5142,1,n/a,n/a
+1026050,A_23_P170761,10464,PDLIM5,PDZ and LIM domain 5,10611,4,n/a,n/a
+1026049,A_24_P174641,10464,PDLIM5,PDZ and LIM domain 5,10611,4,n/a,n/a
+1030360,A_24_P24263,10464,PDLIM5,PDZ and LIM domain 5,10611,4,n/a,n/a
+1026048,A_32_P14610,10464,PDLIM5,PDZ and LIM domain 5,10611,4,n/a,n/a
+1030361,CUST_14369_PI416261804,10464,PDLIM5,PDZ and LIM domain 5,10611,4,n/a,n/a
+1030362,CUST_14372_PI416261804,10464,PDLIM5,PDZ and LIM domain 5,10611,4,n/a,n/a
+1026051,CUST_507_PI416408490,10464,PDLIM5,PDZ and LIM domain 5,10611,4,n/a,n/a
+1052954,A_23_P307544,5330,PLXNA2,plexin A2,5362,1,n/a,n/a
+1052952,A_23_P46618,5330,PLXNA2,plexin A2,5362,1,n/a,n/a
+1052953,CUST_514_PI416408490,5330,PLXNA2,plexin A2,5362,1,n/a,n/a
+1037824,A_23_P129835,58363,PPP1R1B,"protein phosphatase 1, regulatory (inhibitor) subunit 1B",84152,17,n/a,n/a
+1024228,CUST_12375_PI416261804,58363,PPP1R1B,"protein phosphatase 1, regulatory (inhibitor) subunit 1B",84152,17,n/a,n/a
+1037826,CUST_12418_PI416261804,58363,PPP1R1B,"protein phosphatase 1, regulatory (inhibitor) subunit 1B",84152,17,n/a,n/a
+1037825,CUST_520_PI416408490,58363,PPP1R1B,"protein phosphatase 1, regulatory (inhibitor) subunit 1B",84152,17,n/a,n/a
+1020015,A_23_P92623,5498,PPP3CA,"protein phosphatase 3, catalytic subunit, alpha isozyme",5530,4,n/a,n/a
+1012311,A_24_P414371,5498,PPP3CA,"protein phosphatase 3, catalytic subunit, alpha isozyme",5530,4,n/a,n/a
+1052757,A_23_P157495,5501,PPP3CC,"protein phosphatase 3, catalytic subunit, gamma isozyme",5533,8,n/a,n/a
+1052758,CUST_15969_PI416261804,5501,PPP3CC,"protein phosphatase 3, catalytic subunit, gamma isozyme",5533,8,n/a,n/a
+1052759,CUST_522_PI416408490,5501,PPP3CC,"protein phosphatase 3, catalytic subunit, gamma isozyme",5533,8,n/a,n/a
+1052623,A_23_P68786,5593,PRODH,proline dehydrogenase (oxidase) 1,5625,22,n/a,n/a
+1068567,A_24_P83758,5593,PRODH,proline dehydrogenase (oxidase) 1,5625,22,n/a,n/a
+1052625,CUST_16022_PI416261804,5593,PRODH,proline dehydrogenase (oxidase) 1,5625,22,n/a,n/a
+1052624,CUST_525_PI416408490,5593,PRODH,proline dehydrogenase (oxidase) 1,5625,22,n/a,n/a
+1052409,A_23_P17844,5784,PVALB,parvalbumin,5816,22,n/a,n/a
+1052410,CUST_11451_PI416261804,5784,PVALB,parvalbumin,5816,22,n/a,n/a
+1047888,A_23_P424513,9903,RANBP9,RAN binding protein 9,10048,6,n/a,n/a
+1047887,A_23_P59268,9903,RANBP9,RAN binding protein 9,10048,6,n/a,n/a
+1047889,A_24_P226355,9903,RANBP9,RAN binding protein 9,10048,6,n/a,n/a
+1047890,CUST_531_PI416408490,9903,RANBP9,RAN binding protein 9,10048,6,n/a,n/a
+1011856,A_23_P47116,7996,RASSF7,Ras association (RalGDS/AF-6) domain family (N-terminal) member 7,8045,11,n/a,n/a
+1010593,A_23_P52589,7996,RASSF7,Ras association (RalGDS/AF-6) domain family (N-terminal) member 7,8045,11,n/a,n/a
+1017930,CUST_534_PI416408490,7996,RASSF7,Ras association (RalGDS/AF-6) domain family (N-terminal) member 7,8045,11,n/a,n/a
+1014395,A_23_P200737,5967,RGS4,regulator of G-protein signaling 4,5999,1,n/a,n/a
+1014672,A_23_P433855,5967,RGS4,regulator of G-protein signaling 4,5999,1,n/a,n/a
+1017825,CUST_537_PI416408490,5967,RGS4,regulator of G-protein signaling 4,5999,1,n/a,n/a
+1039594,A_23_P132175,41602,RTN4R,reticulon 4 receptor,65078,22,n/a,n/a
+1039595,CUST_9902_PI416261804,41602,RTN4R,reticulon 4 receptor,65078,22,n/a,n/a
+1040965,A_23_P78750,36308,SLC17A7,"solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7",57030,19,n/a,n/a
+1040958,A_32_P226689,36308,SLC17A7,"solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7",57030,19,n/a,n/a
+1040962,CUST_326_PI417557136,36308,SLC17A7,"solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7",57030,19,n/a,n/a
+1040959,CUST_329_PI417557136,36308,SLC17A7,"solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7",57030,19,n/a,n/a
+1040984,CUST_469_PI417557136,36308,SLC17A7,"solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7",57030,19,n/a,n/a
+1040972,CUST_569_PI416408490,36308,SLC17A7,"solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7",57030,19,n/a,n/a
+1027634,A_24_P238420,37004,SPTBN4,"spectrin, beta, non-erythrocytic 4",57731,19,n/a,n/a
+1040411,A_24_P293114,37004,SPTBN4,"spectrin, beta, non-erythrocytic 4",57731,19,n/a,n/a
+1027635,CUST_5354_PI416261804,37004,SPTBN4,"spectrin, beta, non-erythrocytic 4",57731,19,n/a,n/a
+1040412,CUST_603_PI416408490,37004,SPTBN4,"spectrin, beta, non-erythrocytic 4",57731,19,n/a,n/a
+1024419,A_23_P109812,6814,SYN2,synapsin II,6854,3,n/a,n/a
+1024420,CUST_11319_PI416261804,6814,SYN2,synapsin II,6854,3,n/a,n/a
+1051010,CUST_620_PI416408490,6814,SYN2,synapsin II,6854,3,n/a,n/a
+1061884,A_23_P42451,23100,SYNE1,"spectrin repeat containing, nuclear envelope 1",23345,6,n/a,n/a
+1028188,A_23_P500861,23100,SYNE1,"spectrin repeat containing, nuclear envelope 1",23345,6,n/a,n/a
+1024160,A_24_P410453,23100,SYNE1,"spectrin repeat containing, nuclear envelope 1",23345,6,n/a,n/a
+1028189,CUST_15430_PI416261804,23100,SYNE1,"spectrin repeat containing, nuclear envelope 1",23345,6,n/a,n/a
+1045797,CUST_622_PI416408490,23100,SYNE1,"spectrin repeat containing, nuclear envelope 1",23345,6,n/a,n/a
+1032159,A_32_P460757,106037,TAAR6,trace amine associated receptor 6,319100,6,n/a,n/a
+1032160,CUST_15246_PI416261804,106037,TAAR6,trace amine associated receptor 6,319100,6,n/a,n/a
+1050713,A_23_P376488,7081,TNF,tumor necrosis factor,7124,6,n/a,n/a
+1050714,A_24_P50759,7081,TNF,tumor necrosis factor,7124,6,n/a,n/a
