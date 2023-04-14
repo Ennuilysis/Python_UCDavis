@@ -1,5 +1,0 @@
-blank_char : +
-num_rows : 1
-num_cols : 1
-num_pieces_to_win : 1
-
