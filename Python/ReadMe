@@ -1,0 +1,3 @@
+A collection of all my python files from classes. All was written by me, group project mates, or in the case of ECS 032A the final was written by the professor.
+ECS 032A was written without an IDE, as the class did not teach what an IDE was or require it.
+Some files are Jupyter notebook, require packages like SciKit Leanr, TensorFlow, ect, which can be seen at the top of each script or your IDE will tell you.
