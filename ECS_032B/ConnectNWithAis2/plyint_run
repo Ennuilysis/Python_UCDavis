@@ -1,0 +1,90 @@
+[
+    {
+        "type": "convention",
+        "module": "ConnectNGame",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "path": "ConnectNGame\\__init__.py",
+        "symbol": "invalid-name",
+        "message": "Module name \"ConnectNGame\" doesn't conform to snake_case naming style ('([a-z_][a-z0-9_]*)$' pattern)",
+        "message-id": "C0103"
+    },
+    {
+        "type": "warning",
+        "module": "ConnectNGame.src.move",
+        "obj": "",
+        "line": 2,
+        "column": 0,
+        "path": "ConnectNGame\\src\\move.py",
+        "symbol": "unused-import",
+        "message": "Unused import player",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "ConnectNGame.src.move",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "path": "ConnectNGame\\src\\move.py",
+        "symbol": "unused-import",
+        "message": "Unused import game",
+        "message-id": "W0611"
+    },
+    {
+        "type": "convention",
+        "module": "ConnectNGame.src.player",
+        "obj": "Player.is_valid_name",
+        "line": 38,
+        "column": 4,
+        "path": "ConnectNGame\\src\\player.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "ConnectNGame.src.player",
+        "obj": "Player.is_valid_name",
+        "line": 41,
+        "column": 8,
+        "path": "ConnectNGame\\src\\player.py",
+        "symbol": "unused-variable",
+        "message": "Unused variable 'cmp_name'",
+        "message-id": "W0612"
+    },
+    {
+        "type": "convention",
+        "module": "ConnectNGame.src.player",
+        "obj": "Player.create_from_user_input",
+        "line": 50,
+        "column": 4,
+        "path": "ConnectNGame\\src\\player.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "refactor",
+        "module": "ConnectNGame.test.__init__",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "path": "ConnectNGame\\test\\__init__.py",
+        "symbol": "cyclic-import",
+        "message": "Cyclic import (ConnectNGame.src.game -&gt; ConnectNGame.src.player -&gt; ConnectNGame.src.move)",
+        "message-id": "R0401"
+    },
+    {
+        "type": "refactor",
+        "module": "ConnectNGame.test.__init__",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "path": "ConnectNGame\\test\\__init__.py",
+        "symbol": "cyclic-import",
+        "message": "Cyclic import (ConnectNGame.src.move -&gt; ConnectNGame.src.player)",
+        "message-id": "R0401"
+    }
+]
